@@ -1,4 +1,4 @@
-# 🌟 **IoT Multiparametric Health Monitor**  📟 + ❤️ + 🩺
+# 🌟 **IoT Multiparametric Health Monitor**  🩺
 
 A **smart health monitoring system** that tracks vital parameters in real-time and provides seamless data visualization via a mobile app. This project uses **IoT technology** to bridge the gap between healthcare and accessibility.  
 
