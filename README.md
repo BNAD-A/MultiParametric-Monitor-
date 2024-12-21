@@ -22,7 +22,7 @@ A **smart health monitoring system** that tracks vital parameters in real-time a
 ## 🚀 **How to Use**  
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/yourusername/health-monitor.git
+   git clone https://github.com/BNAD-A/health-monitor.git
    cd health-monitor
    ```  
 2. Flash the code onto your ESP32 (don’t forget to set your Wi-Fi credentials!).  
